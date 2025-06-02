@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.6122847mm"
+   height="5.1593809mm"
+   viewBox="0 0 5.6122847 5.1593809"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="icons-sciences.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="7.5087439"
+     inkscape:cx="55.468665"
+     inkscape:cy="37.489626"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.84485,-79.543794)">
+    <path
+       fill-rule="evenodd"
+       d="m 103.25414,79.953378 v 1.328209 a 0.79375,0.79375 0 0 1 -0.23257,0.561181 l -0.62891,0.628915 a 2.6048229,2.6048229 0 0 1 1.34699,0.268022 2.2000104,2.2000104 0 0 0 1.51157,0.168275 l 0.0754,-0.01878 -1.04616,-1.046427 a 0.79375,0.79375 0 0 1 -0.23257,-0.561181 v -1.328209 a 6.2478708,6.2478708 0 0 0 -0.79375,0 z m 1.19063,0.03651 a 0.1984375,0.1984375 0 0 0 0.0246,-0.395552 6.5714562,6.5714562 0 0 0 -0.81835,-0.05054 6.6272833,6.6272833 0 0 0 -0.81836,0.05054 0.1984375,0.1984375 0 0 0 0.0246,0.395552 v 1.291696 a 0.396875,0.396875 0 0 1 -0.11642,0.280458 l -1.66502,1.665288 c -0.42863,0.428889 -0.23892,1.18401 0.3892,1.291166 0.71067,0.121709 1.44118,0.184679 2.18599,0.184679 0.74506,0 1.47531,-0.06323 2.18598,-0.184414 0.62786,-0.107421 0.81809,-0.862542 0.38894,-1.291431 l -1.66476,-1.665023 a 0.396875,0.396875 0 0 1 -0.11641,-0.280723 z"
+       clip-rule="evenodd"
+       id="path9"
+       style="fill:#ffcc00;stroke-width:0.264583" />
+  </g>
+</svg>

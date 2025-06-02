@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="30.63133"
+   height="30.000002"
+   viewBox="0 0 2.4505064 2.4000002"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="fav_earth.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.45"
+     inkscape:cx="24.496644"
+     inkscape:cy="41.275168"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs3">
+    <circle
+       id="earthsun-a"
+       cx="26.811001"
+       cy="27"
+       r="26.5" />
+    <mask
+       id="earthsun-b"
+       fill="#ffffff">
+      <use
+         xlink:href="#earthsun-a"
+         id="use5"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+  </defs>
+  <g
+     id="g88">
+    <use
+       fill="#80d25b"
+       xlink:href="#earthsun-a"
+       id="use8"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(0.04247788,0,0,0.04247788,-0.01321066,-0.02123894)"
+       style="fill-rule:evenodd;fill:#00ffff" />
+    <path
+       fill="#22ba8e"
+       d="m 42.476899,20.005196 c 0,0 -5.82802,-2.378462 -7.563957,-1.189231 -1.735936,1.189231 -0.808572,6.804608 -0.808572,6.804608 0,0 -2.587168,3.707873 -1.293584,5.658036 1.293584,1.950163 4.886874,1.279802 6.905679,2.999987 2.018805,1.720184 1.180043,4.80746 1.180043,4.80746 l -0.488294,3.604446 c 0,0 5.407326,-2.423091 6.965403,-5.913996 1.558077,-3.490905 1.053375,-8.963863 1.053375,-8.963863 L 51.58318,24.951138 54.358624,15.950512 44.61909,12.800695 43.546025,8 l -6.964746,1.9741762 -0.6294,5.2360298 5.349371,1.771141 z M -1,23.040306 c 0,0 1.96994124,-1.255984 2.2328707,-1.275971 2.0171641,-0.153335 9.0462953,0.275485 10.8841473,-2.388958 2.07741,-3.011743 3.809107,-6.999818 3.809107,-6.999818 L 15.856544,9.3070857 4.9943364,6.6413691 Z M 16.076246,48.1005 16.996505,37.937221 9.6033014,32.277387 c 0,0 -0.4269742,-4.529323 4.9393146,-5.16938 5.366289,-0.640057 8.672509,2.679102 8.672509,2.679102 0,0 2.130423,3.296857 1.335912,5.536512 -0.794512,2.239656 -2.850134,5.593524 -2.850134,5.593524 0,0 -0.163058,3.81018 -1.556272,5.58948 -1.393214,1.7793 -4.068385,1.593875 -4.068385,1.593875 z"
+       mask="url(#earthsun-b)"
+       id="path10"
+       transform="matrix(0.04247788,0,0,0.04247788,-0.01321066,-0.02123894)"
+       style="fill-rule:evenodd" />
+    <circle
+       cx="1.855816"
+       cy="1.8053099"
+       r="0.59469032"
+       fill="#ffffff"
+       id="circle14"
+       style="fill-rule:evenodd;stroke-width:0.0424779" />
+    <circle
+       cx="1.855816"
+       cy="1.8053099"
+       r="0.29734516"
+       fill="#ffaf40"
+       id="circle16"
+       style="fill-rule:evenodd;stroke-width:0.0424779" />
+    <path
+       stroke="#ffaf40"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.0849558"
+       d="M 1.8558161,1.423009 V 1.338053 m 0.2703275,0.1969291 0.060073,-0.060073 m 0.051901,0.3304004 h 0.084956 m -0.1969291,0.2703276 0.060073,0.060073 m -0.3304003,0.0519 v 0.084956 M 1.5854885,2.0756375 1.5254157,2.1357103 M 1.4735151,1.8053099 H 1.3885594 M 1.5854885,1.5349823 1.5254157,1.4749095"
+       id="path18"
+       style="fill:none;fill-rule:evenodd" />
+  </g>
+</svg>
